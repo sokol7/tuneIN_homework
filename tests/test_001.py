@@ -1,5 +1,4 @@
 import unittest
-
 from tunein_homework import merge_response
 
 
